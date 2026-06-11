@@ -90,7 +90,7 @@ Designed and implemented a unified payment library at Teamsoft that eliminated d
 
 ## 🌱 Currently learning & exploring
 
-- Advanced Spring Boot (JPA, profiles, config)
+- Advanced System Design concepts
 - AI agent development with TypeScript & Anthropic SDK
 - Building in public with **Job Hub**
 
